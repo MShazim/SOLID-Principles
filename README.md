@@ -17,7 +17,7 @@ This repository provides an introduction to the SOLID principles, a set of softw
 
 ## Introduction to SOLID Principles
 
-Term SOLID, is and Acronym for five design principles that promote software code that is easy to understand, maintain, and extend. By following these principles, developers can create code that is more flexible, modular, and testable, making it easier to adapt to changing requirements and reduce code duplication.
+Term SOLID, is an Acronym for five design principles that promote software code that is easy to understand, maintain, and extend. By following these principles, developers can create code that is more flexible, modular, and testable, making it easier to adapt to changing requirements and reduce code duplication.
 
 - **S** - Single Responsibility Principle (SRP)
 
